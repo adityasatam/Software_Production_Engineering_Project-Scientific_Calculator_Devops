@@ -1,5 +1,5 @@
-# calculator-devops
-This is a calculator based project built using various tools of devops, including jenkins, docker, rundeck, ELK etc
+# scientific calculator-devops
+This is a scientific calculator based project built using various tools of devops, including jenkins, github, maven, docker, ansible, ELK etc
 
-Basic multiplication, subtraction, addition and division is handled by the java calculator project.
-# calculator-devops
+Power function, Square root function, Natural log function, Factorial function is handled by the java scientific calculator project.
+# scientific calculator-devops
